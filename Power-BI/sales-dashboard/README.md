@@ -2,7 +2,10 @@
 Welcome to the Supermarket Sales Dashboard project! This Power BI dashboard provides a comprehensive analysis of supermarket sales data, offering valuable insights into sales performance, trends, and customer behavior.
 
 # Introduction
-In today's competitive retail landscape, understanding and leveraging sales data is essential for supermarkets to make informed decisions and stay ahead of the curve. The Supermarket Sales Dashboard is a powerful tool designed to empower supermarket managers, analysts, and stakeholders with actionable insights derived from sales data.
+In today's competitive retail landscape, understanding and leveraging sales data is essential for supermarkets to make informed decisions and stay ahead of the curve. The Supermarket Sales Dashboard is a powerful tool designed to empower supermarket managers, analysts, and stakeholders with actionable insights derived from sales data. 
+
+In this project, I utilized the [Supermarket Sales Dataset](https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales) to glean valuable insights into various facets of sales performance, profit margins, and product-specific metrics and KPIs.
+
 
 # Key Features
 - Triple Layered Dashboard: The dashboard is structured in three layers, allowing users to drill down from high-level summaries to granular details effortlessly.
@@ -11,12 +14,15 @@ In today's competitive retail landscape, understanding and leveraging sales data
 - Visualizations and Insights: Utilizing advanced visualizations, the dashboard presents key metrics, trends, and patterns in a clear and engaging manner, facilitating data-driven decision-making.
 - Dynamic Filtering and Interactivity: Users can dynamically filter and interact with the data, enabling personalized analysis tailored to specific needs and interests.
 
-# Dash Board Overview
+# Dashboard Overview
 
+## Sales Dashboard
 ![Sales Dashboard](./img/sales.png)
 
+## Product Dashboard
 ![Product Dashboard](./img/product.png)
 
+## Profit Dashboard
 ![Profit Dashboard](./img/profit.png)
 
 
