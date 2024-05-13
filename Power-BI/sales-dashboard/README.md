@@ -13,9 +13,15 @@ In today's competitive retail landscape, understanding and leveraging sales data
 
 # Dash Board Overview
 
-## Sales Dashboard
+![Sales Dashboard](./img/sales.png)
 
-![](./img/sales.png)
+![Product Dashboard](./img/product.png)
+
+![Profit Dashboard](./img/profit.png)
+
+
+
+
 
 
 
