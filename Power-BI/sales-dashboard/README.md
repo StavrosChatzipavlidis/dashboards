@@ -15,7 +15,7 @@ In today's competitive retail landscape, understanding and leveraging sales data
 
 ## Sales Dashboard
 
-![](./power-bi/sales-dashboard/img/sales.png)
+![](./Power-BI/sales-dashboard/img/sales.png)
 
 
 
