@@ -7,5 +7,3 @@ With intuitive filters allowing selection of specific stocks and dates, this das
 # Overview
 
 ![](./img/interface.png)
-
-You can also explore the interactive dashboard [here](https://stavroschatzipavlidis.github.io/Portfolio/Dashboard.html), embedded seamlessly using the Tableau JavaScript API.
